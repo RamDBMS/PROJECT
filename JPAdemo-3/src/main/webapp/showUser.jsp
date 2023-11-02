@@ -7,6 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h2> Display User Information</h2>
+${user}
+
+
+</form>
+
+
 
 </body>
 </html>
